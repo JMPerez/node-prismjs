@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/benjycui/node-prismjs#readme",
   "dependencies": {
-    "prismjs": "~1.13.0"
+    "prismjs": "~1.8.4"
   },
   "devDependencies": {
     "eslint": "^2.10.2",
